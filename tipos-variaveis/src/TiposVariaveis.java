@@ -9,8 +9,8 @@ public class TiposVariaveis {
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
-        int numeroNomal = numeroCurto;
-        short numeroCurto2 = (short) numeroNomal;
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = (short) numeroNormal;
 
         int numero = 5;
 
